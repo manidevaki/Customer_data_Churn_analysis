@@ -1,2 +1,45 @@
-# Customer_data_Churn_analysis
-Customer Churn Analysis using Excel for data cleaning, Python (NumPy &amp; Pandas) for data analysis, SQL for querying, and Power BI for interactive dashboards. The project identifies churn patterns, key customer factors, and actionable insights to improve customer retention.
+
+# 📊 Customer Churn Analysis
+
+An end-to-end **Customer Churn Analysis** project using **Python, Pandas, NumPy, MySQL, SQL, and Power BI** to clean customer data, identify churn patterns, and generate business-focused insights through an interactive dashboard.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project is to analyze customer churn and understand how factors such as:
+
+- Contract Type
+- Subscription Type
+- Internet Service
+- Payment Method
+- Tenure
+- Monthly Charges
+- Location
+- Customer Value
+- Senior Citizen Status
+
+relate to customer behavior and churn.
+
+The project demonstrates a complete **Data Analytics workflow from raw data to business insights**.
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Raw Customer Data
+       ↓
+Python – Data Cleaning
+       ↓
+Feature Engineering
+       ↓
+Clean Dataset
+       ↓
+MySQL Database
+       ↓
+SQL Analysis
+       ↓
+Power BI Dashboard
+       ↓
+Business Insights
